@@ -98,14 +98,19 @@ This file contains structured log analysis results such as:
 The analyzer applies rule-based detection to identify potential threats:
 
 🚫 Multiple failed login attempts
+
 👤 Invalid user authentication attempts
+
 🌐 Repeated access from the same IP
+
 ⚡ Rapid login requests (potential brute-force behavior)
 
 In this test case:
 
 ✔️ No malicious patterns were detected
+
 ✔️ Log file is considered clean
+
 ✔️ Detection system is functioning correctly
 
 # 🧪 Test Scenario
@@ -135,11 +140,12 @@ pip install -r requirements.txt
 
 Cybersecurity Analyst | Python Developer
 
-📜 License
+
+# 📜 License
 
 MIT License
 
-⭐ Support
+# ⭐ Support
 
 If you find this project useful, give it a ⭐ and connect!
 
