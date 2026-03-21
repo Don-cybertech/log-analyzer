@@ -29,6 +29,7 @@ json (report generation)
 re (log parsing with regex)
 
 # 📁 Project Structure
+
 log-analyzer/
 │── logs/
 │    └── sample_auth.log
@@ -41,6 +42,7 @@ log-analyzer/
 │── README.md
 
 # ▶️ Usage
+
 🔹 Command Executed
 python log_analyzer.py --file logs/sample_auth.log
 
@@ -107,6 +109,7 @@ cd log-analyzer
 pip install -r requirements.txt
 
 # 🏁 What This Project Demonstrates
+
 ✅ Practical log analysis skills
 ✅ Understanding of SOC workflows
 ✅ Ability to build security automation tools
@@ -114,7 +117,8 @@ pip install -r requirements.txt
 
 # 👤 Author
 
-Egwu Don Achema
+# Egwu Don Achema
+
 Cybersecurity Analyst | Python Developer
 
 📜 License
