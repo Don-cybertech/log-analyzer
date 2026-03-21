@@ -31,14 +31,23 @@ re (log parsing with regex)
 # 📁 Project Structure
 
 log-analyzer/
+
 │── logs/
+
 │    └── sample_auth.log
+
 │── screenshots/
+
 │    ├── terminal_output.png
+
 │    ├── json_report.png
+
 │── log_analyzer.py
+
 │── report.json
+
 │── requirements.txt
+
 │── README.md
 
 # ▶️ Usage
@@ -63,7 +72,9 @@ This file contains structured log analysis results such as:
 
 {
   "status": "success",
+  
   "message": "No suspicious activity detected",
+  
   "suspicious_activity": false
 }
 
@@ -111,8 +122,11 @@ pip install -r requirements.txt
 # 🏁 What This Project Demonstrates
 
 ✅ Practical log analysis skills
+
 ✅ Understanding of SOC workflows
+
 ✅ Ability to build security automation tools
+
 ✅ Clean and professional Python scripting
 
 # 👤 Author
