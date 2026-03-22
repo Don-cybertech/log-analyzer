@@ -5,14 +5,17 @@ It demonstrates automated threat detection, log parsing, and reporting in a Pyth
 
 # 📌 Overview
 
-The Log Analyzer is a Python-based cybersecurity tool designed to analyze authentication logs and detect suspicious activities such as brute-force attacks, failed login attempts, and anomalous access patterns.
+This Log Analyzer is a Python-based cybersecurity tool designed to analyze authentication logs and detect suspicious activities such as brute-force attacks, failed login attempts, and anomalous access patterns.
 
 This project reflects a real-world SOC workflow, including:
 
-Log ingestion
-Event parsing
-Threat detection
-Report generation
+-Log ingestion
+
+-Event parsing
+
+-Threat detection
+
+-Report generation
 
 # ⚙️ Features
 🔍 Authentication log parsing
@@ -26,9 +29,13 @@ Report generation
 ✅ Clean execution with status reporting
 
 # 🛠️ Tech Stack
+
 Python 3
+
 argparse (CLI handling)
+
 json (report generation)
+
 re (log parsing with regex)
 
 # 📁 Project Structure
@@ -115,6 +122,7 @@ In this test case:
 ✔️ Detection system is functioning correctly
 
 # 🧪 Test Scenario
+
 📂 Input file: logs/sample_auth.log
 
 🔍 Log type: Authentication logs
@@ -124,6 +132,7 @@ In this test case:
 📊 Output: JSON report successfully generated
 
 # ⚡ Installation
+
 git clone https://github.com/YOUR_USERNAME/log-analyzer.git
 cd log-analyzer
 pip install -r requirements.txt
@@ -149,8 +158,7 @@ Cybersecurity Analyst | Python Developer
 MIT License
 
 # ⭐ Support
-
 If you find this project useful, give it a ⭐ and connect!
 
-![Terminal Output](screenshots/terminal_output.png)
+If you find this project useful, give it a ⭐ and connect!![Terminal Output](screenshots/terminal_output.png)
 ![JSON Report](screenshots/json_report.png)
