@@ -88,7 +88,7 @@ This file contains structured log analysis results such as:
 
 # 📸 Screenshots (Real Evidence)
 
-🔹 ![Terminal Output](screenshots/terminal_output.png)
+🔹 ![Terminal Output](screenshots/https://github.com/Don-cybertech/log-analyzer/blob/main/terminal%20output.png)
 
 
 
