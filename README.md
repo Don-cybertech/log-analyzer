@@ -88,7 +88,7 @@ This file contains structured log analysis results such as:
 
 # 📸 Screenshots (Real Evidence)
 
-🔹 ![Terminal Output(https://github.com/Don-cybertech/log-analyzer/blob/main/terminal%20output.png)]
+🔹 ![(Terminal Output)(https://github.com/Don-cybertech/log-analyzer/blob/main/terminal%20output.png)]
 
 
 
@@ -96,7 +96,7 @@ This file contains structured log analysis results such as:
 
 👉 Shows successful execution and detection result
 
-🔹 ![JSON Report](screenshots/json_report.png)
+🔹 ![(JSON Report)(https://github.com/Don-cybertech/log-analyzer/blob/main/json%20report.png)]
 
 
 
