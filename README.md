@@ -118,7 +118,9 @@ The analyzer applies rule-based detection to identify potential threats:
 In this test case:
 
 ✔️ No malicious patterns were detected
+
 ✔️ Log file is considered clean
+
 ✔️ Detection system is functioning correctly
 
 # 🧪 Test Scenario
@@ -133,7 +135,7 @@ In this test case:
 
 # ⚡ Installation
 
-git clone https://github.com/YOUR_USERNAME/log-analyzer.git
+git clone https://github.com/Don-cybertech/log-analyzer.git
 cd log-analyzer
 pip install -r requirements.txt
 
@@ -159,6 +161,3 @@ MIT License
 
 # ⭐ Support
 If you find this project useful, give it a ⭐ and connect!
-
-If you find this project useful, give it a ⭐ and connect!![Terminal Output](screenshots/terminal_output.png)
-![JSON Report](screenshots/json_report.png)
